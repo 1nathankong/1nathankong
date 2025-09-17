@@ -83,6 +83,16 @@ Created property evaluation system using APIs and statistical modeling.
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Skyline](https://skyline.github.com/1nathankong/2024)
+
+</div>
+
+---
+
 ## Connect with me
 
 <div align="center">
