@@ -86,7 +86,8 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-[![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong&theme=mono)](https://skyline.github.com/1nathankong)
+[![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong)](https://skyline.github.com/1nathankong)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&theme=dark&hide_border=true)
 
 </div>
