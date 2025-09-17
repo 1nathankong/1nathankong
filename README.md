@@ -86,7 +86,7 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-![GitHub Skyline](https://skyline.github.com/1nathankong/2024)
+[![GitHub Skyline](https://gitskyline.vercel.app/api/skyline?username=1nathankong&year=2024)](https://gitskyline.vercel.app/1nathankong)
 
 </div>
 
