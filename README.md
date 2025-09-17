@@ -16,9 +16,6 @@
 - I previously worked as a **Software Engineer Intern at Hexagon ALI**
 - Specializing in **AI, hardware-software co-design, and LLM optimization**
 - Focus on **transforming complex algorithms between software and hardware platforms**
-- Currently exploring **agentic workflows and FPGA hardware synthesis**
-- Ask me about **Triton kernels, CUDA optimization, or LLM inference**
-- Fun fact: **I convert Python algorithms to run on FPGAs!**
 
 ---
 
