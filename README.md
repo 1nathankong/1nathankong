@@ -60,22 +60,22 @@
 
 ## Featured Projects
 
-### [Triton Kernel FlashAttention Optimization](https://github.com/1nathankong)
+### [Triton Kernel FlashAttention Optimization](https://github.com/1nathankong/gpt_attention_project)
 Explored memory-bounded attention scaling and benchmarked long-context inference performance using Triton kernels.
 - **Tech Stack:** Python, Triton, CUDA
 - **Focus:** LLM optimization, memory efficiency
 
-### [Elevator Controller: Python to Vivado HLS](https://github.com/1nathankong)
+### [Elevator Controller: Python to Vivado HLS](https://github.com/1nathankong/Elevator-Project)
 Converted Python elevator control algorithm to FPGA hardware implementation.
 - **Tech Stack:** Python, Vivado HLS, FPGA
 - **Focus:** Hardware-software co-design, algorithm conversion
 
-### [Corporate Disclosure Insight System](https://github.com/1nathankong)
+### [Corporate Disclosure Insight System](https://github.com/1nathankong/financehelper)
 Developed SEC EDGAR filing analysis workflow to reduce manual review using local LLM inference.
 - **Tech Stack:** Python, LLM, BeautifulSoup, FastAPI
 - **Focus:** Document analysis, agentic workflows
 
-### [Real Estate Property Ranking Platform](https://github.com/1nathankong)
+### [Real Estate Property Ranking Platform](https://github.com/1nathankong/zipcode_locked_realestate_ranking_system)
 Created property evaluation system using APIs and statistical modeling.
 - **Tech Stack:** Python, Pandas, API Integration
 - **Focus:** Data analysis, statistical modeling
