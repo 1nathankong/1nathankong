@@ -86,7 +86,10 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-[![GitHub Skyline](https://gitskyline.vercel.app/api/skyline?username=1nathankong&year=2024)](https://gitskyline.vercel.app/1nathankong)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1nathankong&theme=react-dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nathankong&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=1nathankong&theme=dark&hide_border=true)
 
 </div>
 
