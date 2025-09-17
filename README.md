@@ -86,8 +86,6 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-[![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong)](https://skyline.github.com/1nathankong)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -102,6 +100,14 @@ Created property evaluation system using APIs and statistical modeling.
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://nathankong.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nak5508@psu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1nathankong)
+
+</div>
+
+---
+
+<div align="center">
+
+[![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong)](https://skyline.github.com/1nathankong)
 
 </div>
 
