@@ -1,22 +1,20 @@
-# Hi there! 👋
-
 I'm Nathan Kong, a passionate developer interested in building innovative solutions.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 - Programming languages you know
 - Frameworks you use
 - Tools you're familiar with
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=1nathankong&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
+## Currently Learning
 - What you're currently learning or working on
 
-## 📫 How to reach me
+## How to reach me
 - Add your contact information or social links
 
-## ⚡ Fun fact
+## Fun fact
 - Add something interesting about yourself
 
 <!--
