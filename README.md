@@ -1,12 +1,3 @@
-<div align="center">
-
-# Hey there! I'm Nathan Kong
-
-
-[![GitHub followers](https://img.shields.io/github/followers/1nathankong?label=Followers&style=social)](https://github.com/1nathankong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://nathankong.netlify.app/)
-
-</div>
 
 ---
 
