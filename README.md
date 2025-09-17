@@ -82,32 +82,6 @@ Created property evaluation system using APIs and statistical modeling.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1nathankong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-### Streak Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1nathankong&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-### Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nathankong&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-### GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1nathankong&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## Connect with me
 
 <div align="center">
@@ -117,13 +91,6 @@ Created property evaluation system using APIs and statistical modeling.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nak5508@psu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1nathankong)
 
-</div>
-
----
-
-## Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
