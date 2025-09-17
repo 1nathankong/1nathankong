@@ -2,7 +2,6 @@
 
 # Hey there! I'm Nathan Kong
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Hardware-Software+Co-Design;LLM+Optimization+Specialist;Transforming+Algorithms+Across+Platforms" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=1nathankong&color=brightgreen&style=flat-square)](https://github.com/1nathankong)
 [![GitHub followers](https://img.shields.io/github/followers/1nathankong?label=Followers&style=social)](https://github.com/1nathankong)
@@ -93,15 +92,6 @@ Created property evaluation system using APIs and statistical modeling.
 
 </div>
 
----
-
-<div align="center">
-
-### Show some love by starring some of the repositories!
-
-![Snake animation](https://raw.githubusercontent.com/1nathankong/1nathankong/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <!--
 **1nathankong/1nathankong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
