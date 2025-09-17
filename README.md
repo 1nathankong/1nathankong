@@ -3,7 +3,6 @@
 # Hey there! I'm Nathan Kong
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=1nathankong&color=brightgreen&style=flat-square)](https://github.com/1nathankong)
 [![GitHub followers](https://img.shields.io/github/followers/1nathankong?label=Followers&style=social)](https://github.com/1nathankong)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://nathankong.netlify.app/)
 
@@ -61,7 +60,7 @@ Explored memory-bounded attention scaling and benchmarked long-context inference
 - **Tech Stack:** Python, Triton, CUDA
 - **Focus:** LLM optimization, memory efficiency
 
-### [NBA Game Prediction System](https://github.com/1nathankong/nba-prediction-system)
+### [NBA Game Prediction System](https://github.com/1nathankong/nba_game_prediction)
 A comprehensive machine learning system for predicting NBA game outcomes using advanced statistical analysis and news sentiment data.
 - **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
 - **Focus:** Sports analytics, ensemble ML, sentiment analysis
