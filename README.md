@@ -3,7 +3,6 @@
 # Hey there! I'm Nathan Kong
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=1nathankong&color=brightgreen&style=flat-square)](https://github.com/1nathankong)
 [![GitHub followers](https://img.shields.io/github/followers/1nathankong?label=Followers&style=social)](https://github.com/1nathankong)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://nathankong.netlify.app/)
 
