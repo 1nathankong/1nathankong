@@ -89,7 +89,7 @@ Created property evaluation system using APIs and statistical modeling.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1nathankong&theme=react-dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nathankong&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=1nathankong&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
