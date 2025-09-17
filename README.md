@@ -61,7 +61,7 @@ Explored memory-bounded attention scaling and benchmarked long-context inference
 - **Tech Stack:** Python, Triton, CUDA
 - **Focus:** LLM optimization, memory efficiency
 
-### [NBA Game Prediction System](https://github.com/1nathankong/nba-prediction-system)
+### [NBA Game Prediction System](https://github.com/1nathankong/nba_game_prediction)
 A comprehensive machine learning system for predicting NBA game outcomes using advanced statistical analysis and news sentiment data.
 - **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
 - **Focus:** Sports analytics, ensemble ML, sentiment analysis
