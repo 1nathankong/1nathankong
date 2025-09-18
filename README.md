@@ -2,8 +2,8 @@
 ## About Me
 
 - I previously worked as a **Software Engineer Intern at Hexagon ALI**
-- Specializing in **AI, hardware-software co-design, and LLM optimization**
-- Focus on **transforming complex algorithms between software and hardware platforms**
+- Interests in **AI, hardware-software co-design, and LLM optimization**
+- Focusing on **transforming complex algorithms between software and hardware platforms**
 
 ---
 
