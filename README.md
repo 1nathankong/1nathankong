@@ -2,8 +2,8 @@
 ## About Me
 
 - I previously worked as a **Software Engineer Intern at Hexagon ALI**
-- Specializing in **AI, hardware-software co-design, and LLM optimization**
-- Focus on **transforming complex algorithms between software and hardware platforms**
+- Interests in **AI, hardware-software co-design, and LLM optimization**
+- Focusing on **transforming complex algorithms between software and hardware platforms**
 
 ---
 
@@ -75,6 +75,7 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
+![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong&theme=green)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -91,9 +92,3 @@ Created property evaluation system using APIs and statistical modeling.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1nathankong)
 
 </div>
-
-
-
-<!--
-**1nathankong/1nathankong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
