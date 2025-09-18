@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(del \"C:\\Users\\nkgMe\\documents\\1nathankong\\.github\\workflows\\profile-3d.yml\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
