@@ -92,13 +92,6 @@ Created property evaluation system using APIs and statistical modeling.
 
 </div>
 
----
-
-<div align="center">
-
-![3D Contributions](https://3d-github-contributions.vercel.app/api?username=1nathankong&theme=green)
-
-</div>
 
 
 <!--
