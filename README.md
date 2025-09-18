@@ -75,7 +75,7 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-![3D GitHub Contributions](https://raw.githubusercontent.com/1nathankong/1nathankong/main/profile-3d-contrib/profile-gitblock.svg)
+![3D GitHub Contributions](https://raw.githubusercontent.com/1nathankong/1nathankong/main/profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
