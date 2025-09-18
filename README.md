@@ -75,7 +75,7 @@ Created property evaluation system using APIs and statistical modeling.
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1nathankong&langs_count=8&theme=dark)
 
 </div>
 
