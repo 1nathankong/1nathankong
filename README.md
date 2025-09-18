@@ -76,7 +76,6 @@ Created property evaluation system using APIs and statistical modeling.
 <div align="center">
 
 ![3D GitHub Contributions](https://raw.githubusercontent.com/1nathankong/1nathankong/main/profile-3d-contrib/profile-gitblock.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1nathankong&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
