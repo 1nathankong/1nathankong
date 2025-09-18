@@ -1,12 +1,3 @@
-<div align="center">
-
-# Hey there! I'm Nathan Kong
-
-
-[![GitHub followers](https://img.shields.io/github/followers/1nathankong?label=Followers&style=social)](https://github.com/1nathankong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://nathankong.netlify.app/)
-
-</div>
 
 ---
 
@@ -103,6 +94,8 @@ Created property evaluation system using APIs and statistical modeling.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1nathankong)
 
 </div>
+
+---
 
 
 <!--
