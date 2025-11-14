@@ -5,43 +5,6 @@
 - Interests in **AI, hardware-software co-design, and LLM optimization**
 - Focusing on **transforming complex algorithms between software and hardware platforms**
 
----
-
-## Technologies & Tools
-
-### Core Languages & Frameworks
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-41B883?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
-</p>
-
-### AI & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
-<img src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Triton"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
-<img src="https://img.shields.io/badge/FlashAttention-FF4B4B?style=for-the-badge&logo=lightning&logoColor=white" alt="FlashAttention"/>
-</p>
-
-### Hardware & FPGA
-<p>
-<img src="https://img.shields.io/badge/Vivado_HLS-FF2C00?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado HLS"/>
-<img src="https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA"/>
-<img src="https://img.shields.io/badge/Hardware_Synthesis-FF6B35?style=for-the-badge&logo=chip&logoColor=white" alt="Hardware Synthesis"/>
-</p>
-
-### Development Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
----
-
 ## Featured Projects
 
 ### [Triton Kernel FlashAttention Optimization](https://github.com/1nathankong/gpt_attention_project)
