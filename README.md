@@ -17,10 +17,10 @@ A comprehensive machine learning system for predicting NBA game outcomes using a
 - **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
 - **Focus:** Sports analytics, ensemble ML, sentiment analysis
 
-### [Elevator Controller: Python to Vivado HLS](https://github.com/1nathankong/Elevator-Project)
+### [Elevator Controller: TBD]
 Converted Python elevator control algorithm to FPGA hardware implementation.
-- **Tech Stack:** Python, Vivado HLS, FPGA
-- **Focus:** Hardware-software co-design, algorithm conversion
+- **Tech Stack:** Python, C++
+- **Focus:** Hardware-software co-design
 
 ### [Corporate Disclosure Insight System](https://github.com/1nathankong/financehelper)
 Developed SEC EDGAR filing analysis workflow to reduce manual review using local LLM inference.
