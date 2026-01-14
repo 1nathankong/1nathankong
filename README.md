@@ -17,8 +17,8 @@ A comprehensive machine learning system for predicting NBA game outcomes using a
 - **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
 - **Focus:** Sports analytics, ensemble ML, sentiment analysis
 
-### [Elevator Controller: TBD]
-Converted Python elevator control algorithm to FPGA hardware implementation.
+### [Elevator Controller:](https://github.com/1nathankong/Elevator-Verification)
+Converted Python elevator control algorithm to Microcontroller hardware implementation.
 - **Tech Stack:** Python, C++
 - **Focus:** Hardware-software co-design
 
