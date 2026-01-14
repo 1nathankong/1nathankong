@@ -12,15 +12,15 @@ Explored memory-bounded attention scaling and benchmarked long-context inference
 - **Tech Stack:** Python, Triton, CUDA
 - **Focus:** LLM optimization, memory efficiency
 
-### [NBA Game Prediction System](https://github.com/1nathankong/nba_game_prediction)
-A comprehensive machine learning system for predicting NBA game outcomes using advanced statistical analysis and news sentiment data.
-- **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
-- **Focus:** Sports analytics, ensemble ML, sentiment analysis
-
 ### [Elevator Controller:](https://github.com/1nathankong/Elevator-Verification)
 Converted Python elevator control algorithm to Microcontroller hardware implementation.
 - **Tech Stack:** Python, C++
 - **Focus:** Hardware-software co-design
+
+### [NBA Game Prediction System](https://github.com/1nathankong/nba_game_prediction)
+A comprehensive machine learning system for predicting NBA game outcomes using advanced statistical analysis and news sentiment data.
+- **Tech Stack:** Python, XGBoost, LightGBM, VADER, TextBlob, ESPN API
+- **Focus:** Sports analytics, ensemble ML, sentiment analysis
 
 ### [Corporate Disclosure Insight System](https://github.com/1nathankong/financehelper)
 Developed SEC EDGAR filing analysis workflow to reduce manual review using local LLM inference.
