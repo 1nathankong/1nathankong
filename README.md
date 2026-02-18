@@ -2,7 +2,7 @@
 ## About Me
 
 - I previously worked as a **Software Engineer Intern at Hexagon ALI**
-- Interests in **AI, hardware-software co-design, and LLM optimization**
+- Interests in **Computer Architecture, Distributed Systems, Image processing**
 - Focusing on **transforming complex algorithms between software and hardware platforms**
 
 ## Featured Projects
