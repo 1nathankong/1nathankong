@@ -3,11 +3,11 @@
 
 - I previously worked as a **Software Engineer Intern at Hexagon ALI**
 - Interests in **Computer Architecture, Distributed Systems, GPU Programming, and Image processing**
-- Focusing on **transforming complex algorithms between software and hardware platforms**
+- Focusing on applied Hardware and Engineering
 
 ## Featured Projects
 
-### [Triton Kernel FlashAttention Optimization](https://github.com/1nathankong/gpt_attention_project)
+### [Triton Kernel FlashAttention Optimization(Python speedup exploration)](https://github.com/1nathankong/gpt_attention_project)
 Explored memory-bounded attention scaling and benchmarked long-context inference performance using Triton kernels.
 - **Tech Stack:** Python, Triton, CUDA
 - **Focus:** LLM optimization, memory efficiency
@@ -32,24 +32,10 @@ Created property evaluation system using APIs and statistical modeling.
 - **Tech Stack:** Python, Pandas, API Integration
 - **Focus:** Data analysis, statistical modeling
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1nathankong&langs_count=8&theme=dark)
-
-</div>
-
----
-
 ## Connect with me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathankong999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://nathankong.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1nathankong)
-
 </div>
