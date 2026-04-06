@@ -7,6 +7,11 @@
 
 ## Featured Projects
 
+###[Digit Recognizer](https://github.com/1nathankong/digit_recognizer)
+Implemented Neural Network with Backpropagation. One version written with CUDA array libary and a second implementation written fully in C++.
+- **Tech Stack:** Python, C++, CUDA
+- **Focus:** Software Optimization using Hardware
+
 ### [Triton Kernel FlashAttention Optimization(Python speedup exploration)](https://github.com/1nathankong/gpt_attention_project)
 Explored memory-bounded attention scaling and benchmarked long-context inference performance using Triton kernels.
 - **Tech Stack:** Python, Triton, CUDA
