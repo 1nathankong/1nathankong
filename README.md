@@ -7,7 +7,7 @@
 
 ## Featured Projects
 
-###[Digit Recognizer](https://github.com/1nathankong/digit_recognizer)
+### [Digit Recognizer](https://github.com/1nathankong/digit_recognizer)
 Implemented Neural Network with Backpropagation. One version written with CUDA array libary and a second implementation written fully in C++.
 - **Tech Stack:** Python, C++, CUDA
 - **Focus:** Software Optimization using Hardware
